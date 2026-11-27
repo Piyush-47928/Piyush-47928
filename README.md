@@ -12,14 +12,6 @@
 
 ---
 
-## 🧠 NEURAL ROBOTICS UNIVERSE
-
-<div align="center">
-
-<a href="https://Piyush-47928.github.io/neural-robotics-simulation/">
-<img src="https://img.shields.io/badge/◈%20EXPLORE-3D%20NEURAL%20ROBOTICS-00D9FF?style=for-the-badge" />
-</a>
-
 **Artificial Intelligence × Robotic Intelligence**
 
 </div>
