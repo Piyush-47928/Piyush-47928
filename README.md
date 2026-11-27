@@ -1,81 +1,118 @@
-<h1 align="center">Hi, I'm Piyush Sharma 👋</h1>
+<div align="center">
 
-<h3 align="center">AI/ML · VLSI & Digital Design · Robotics</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:123B70,100:00D9FF&height=200&section=header&text=PIYUSH%20SHARMA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20VLSI%20%7C%20ROBOTICS&descAlignY=60&descSize=18" width="100%"/>
 
-<p align="center">
-  Building intelligent systems across software, silicon, and the physical world.
-</p>
+# 🤖 Hey there! I'm Piyush Sharma
 
-<p align="center">
-  <a href="https://Piyush-47928.github.io/neural-robotics-simulation/">
-    <img src="https://img.shields.io/badge/ENTER_THE_NEURAL_ROBOTICS_LAB-Interactive_3D_Simulation-00D9FF?style=for-the-badge&logo=three.js&logoColor=white">
-  </a>
-</p>
+### Electronics & Communication Engineer | AI/ML | VLSI | Robotics
 
-<p align="center">
-  <a href="https://Piyush-47928.github.io/neural-robotics-simulation/">
-    <img src="./profile-preview.gif" width="100%">
-  </a>
-</p>
+*Exploring the intersection of intelligent software, semiconductor hardware and autonomous machines.*
+
+</div>
 
 ---
 
-### 🧠 ABOUT ME
+## 🧠 About Me
 
-I'm an Electronics & Communication Engineering undergraduate at DCRUST, specializing in VLSI.
-
-My interests span Artificial Intelligence, Computer Vision, Digital Hardware Design, Embedded Systems, and Robotics.
-
-I enjoy working across the stack — from RTL and circuit simulation to machine-learning workflows and physical robotic prototypes.
-
-### ⚙️ TECHNICAL TOOLKIT
-
-- **Languages:** Python, C/C++, Kotlin, Verilog HDL
-- **AI/ML:** PyTorch, OpenCV, YOLOv11, LangChain, SLLE, UMAP
-- **VLSI:** Cadence Virtuoso, Xilinx Vivado, CMOS Design, RTL Design
-- **Robotics:** ROS 2, Gazebo, PyBullet, Arduino
-- **Tools:** Git, GitHub, Linux, KiCad, Proteus, EasyEDA
-
-### 🚀 FEATURED PROJECTS
-
-**1. INT8 Quantized Parallel MAC Accelerator**
-- Designed an INT8 CNN inference accelerator.
-- Implemented 16 parallel MAC lanes.
-- Verified using a self-checking testbench.
-
-**2. Low-Power Current-Starved Ring VCO**
-- Designed a three-stage ring VCO using MTCMOS.
-- Analyzed power, leakage and oscillation characteristics using Cadence Virtuoso.
-
-**3. Crowd Surveillance using SLLE + UMAP**
-- Developed a computer vision workflow.
-- Applied dimensionality reduction to high-dimensional image data.
-- Contributed to a research paper submission.
-
-**4. Robotics & Embedded Projects**
-- Line Following Robot.
-- Maneuvering Robot.
-- Python Talking Bot.
-
-### 🔬 EXPERIENCE & LEADERSHIP
-
-- Research Intern — National Institute of Technology Delhi
-- Training & Placement Coordinator — Department of ECE, DCRUST
-- Team Member & Coordinator — Thinkbots Technical Society
-- Team Leader — Smart India Hackathon
-
-### 🎯 CURRENT INTERESTS
-
-AI × VLSI | Neural Networks | Computer Vision | Robotics Simulation | Autonomous Systems
+- 🎓 Electronics & Communication Engineering undergraduate at DCRUST.
+- 🤖 Interested in Artificial Intelligence, Robotics and Autonomous Systems.
+- ⚡ Exploring VLSI, RTL Design and Low-Power CMOS Design.
+- 👁️ Working with Computer Vision and Deep Learning.
+- 🔬 Research experience at NIT Delhi.
+- 🚀 Passionate about building intelligent engineering solutions.
 
 ---
 
-<p align="center">
-  <b>CURIOUS BY DESIGN. BUILDING AT THE INTERSECTION OF INTELLIGENCE AND ENGINEERING.</b>
-</p>
+## 🌌 Enter My Neural Robotics Universe
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyush-sharma-b95233277/">LinkedIn</a> ·
-  <a href="https://piyushsharma.pages.dev/">Portfolio</a> ·
-  <a href="mailto:piyushsharma47928@gmail.com">Email</a>
-</p>
+<div align="center">
+
+<a href="https://Piyush-47928.github.io/neural-robotics-simulation/">
+<img src="./profile-preview.gif" width="100%" alt="Neural Robotics Simulation"/>
+</a>
+
+<a href="https://Piyush-47928.github.io/neural-robotics-simulation/">
+<img src="https://img.shields.io/badge/🚀_EXPLORE_INTERACTIVE_3D_SIMULATION-00D9FF?style=for-the-badge&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ⚙️ What I'm Working On
+
+- 🧠 AI-powered intelligent systems.
+- 🔬 Low-power VLSI architectures.
+- 🤖 Robotics and embedded applications.
+- 👁️ Computer Vision and image processing.
+- ⚡ Hardware acceleration for neural networks.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| INT8 Parallel MAC Accelerator | CNN inference hardware accelerator | Verilog, Vivado |
+| Low-Power Ring VCO | MTCMOS-based oscillator design | Cadence Virtuoso |
+| Crowd Surveillance | Image analysis using SLLE and UMAP | Python, ML |
+| Robotics Projects | Autonomous and sensor-based robots | Arduino, C++ |
+| Neural Robotics Universe | Interactive 3D AI simulation | Three.js, JavaScript |
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,git,github,linux,arduino,opencv,vscode&perline=7"/>
+
+</div>
+
+**Hardware & Engineering**
+
+`Verilog HDL` `Cadence Virtuoso` `Xilinx Vivado` `KiCad` `Proteus` `EasyEDA`
+
+**AI & Robotics**
+
+`PyTorch` `OpenCV` `YOLOv11` `ROS 2` `Gazebo` `PyBullet`
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Piyush-47928&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-47928&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-47928&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/piyush-sharma-b95233277/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://piyushsharma.pages.dev/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### ⚡ THINK. BUILD. INNOVATE.
+
+*Building intelligent systems for tomorrow.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:123B70,100:050816&height=100&section=footer" width="100%"/>
+
+</div>
