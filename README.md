@@ -29,52 +29,63 @@ class PiyushSharma(Engineer):
 Robots are a loop: sense, perceive, plan, act. I like working on every step of it, including the silicon underneath.
 
 <p align="center"><img src="assets/loop.svg" width="100%" alt="Sense, perceive, plan, act feedback loop"/></p>
-
 ## `> ls projects/`
+
+Six builds, each with a result you can check.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>👁️ Crowd Surveillance, SLLE + UMAP</h3>
-      Crowd analysis using Supervised Locally Linear Embedding and UMAP to reduce and visualize high-dimensional image data. I built the dataset prep, preprocessing and feature pipeline, then compared how each method separates classes.
+      <h3>👁️ <a href="https://github.com/Piyush-47928?tab=repositories">crowd-surveillance-slle-umap</a></h3>
+      Crowd surveillance and analysis with Supervised Locally Linear Embedding and UMAP: dataset prep, image preprocessing and a feature pipeline, comparing how each method separates classes in high-dimensional image data.
       <br/><br/>
       <b>Contributed to a research paper submission. Jan–Mar 2026.</b>
       <br/><br/>
-      <code>Python</code> <code>Computer Vision</code> <code>UMAP</code> <code>SLLE</code>
+      <code>Python</code> <code>OpenCV</code> <code>SLLE</code> <code>UMAP</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Line Following + Maneuvering Robots</h3>
-      Two robots with sensor-driven input processing, control logic and directional motion handling for real-time response. Built through Thinkbots, the DCRUST technical society.
+      <h3>🤖 <a href="https://github.com/Piyush-47928?tab=repositories">line-following-robot</a></h3>
+      Line Following Robot and Maneuvering Robot with sensor-based input processing, control logic and directional motion handling for real-time response. Built with Thinkbots at DCRUST.
       <br/><br/>
-      <b>Hands-on hardware: sensors, motor control, embedded logic. Plus a Python talking bot with audio output.</b>
+      <b>Two working robots: sensors in, motor control out, running in real time.</b>
       <br/><br/>
-      <code>Sensors</code> <code>Control</code> <code>Embedded</code> <code>Python</code>
+      <code>Sensors</code> <code>Control logic</code> <code>Embedded</code> <code>Arduino</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏫 School Surveillance System</h3>
-      Smart India Hackathon project where I was team leader, building a surveillance system for schools.
+      <h3>🏫 <a href="https://github.com/Piyush-47928?tab=repositories">school-surveillance-sih</a></h3>
+      Smart India Hackathon project: a school surveillance system, built with me as team leader.
       <br/><br/>
-      <b>Team leader, Smart India Hackathon.</b>
+      <b>Led the team as Team Leader at Smart India Hackathon.</b>
       <br/><br/>
-      <code>Team lead</code> <code>Vision</code> <code>SIH</code>
+      <code>Computer Vision</code> <code>Team lead</code> <code>SIH</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🧮 INT8 Quantized Parallel MAC Accelerator</h3>
-      The AI-hardware side: a CNN-inference accelerator in Verilog RTL with 16 parallel multiply-accumulate lanes on 128-bit packed words, a 512-bit accumulator bus, an 8-state one-hot FSM and requantization.
+      <h3>🧮 <a href="https://github.com/Piyush-47928?tab=repositories">int8-mac-accelerator</a></h3>
+      INT8 CNN-inference accelerator in Verilog RTL: 16 parallel multiply-accumulate lanes on 128-bit packed words, a 512-bit accumulator bus, an 8-state one-hot FSM controller and scale-and-shift requantization.
       <br/><br/>
-      <b>6 of 6 self-checking tests pass in Vivado sim. Synthesizes for xcu200 with 0 errors, 1 warning.</b>
+      <b>6 checks passed, 0 failed in Vivado behavioral sim. Synthesized for xcu200: 0 errors, 1 warning.</b>
       <br/><br/>
       <code>Verilog HDL</code> <code>Vivado 2025.1</code> <code>AI × VLSI</code>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>🔋 Low-Power Current-Starved Ring VCO (MTCMOS)</h3>
-      Ultra-low-power three-stage ring oscillator with MTCMOS standby-leakage suppression, designed and simulated in Cadence Virtuoso during my NIT Delhi research internship (May–Jul 2026). Useful groundwork for power-hungry edge AI and robot electronics.
+    <td width="50%" valign="top">
+      <h3>🔋 <a href="https://github.com/Piyush-47928?tab=repositories">ring-vco-mtcmos</a></h3>
+      Ultra-low-power three-stage current-starved ring VCO with MTCMOS standby-leakage suppression. Transistor-level schematic and simulation in Cadence Virtuoso to study power, performance and area trade-offs.
       <br/><br/>
-      <code>Cadence Virtuoso</code> <code>CMOS</code> <code>Low-power design</code>
+      <b>Evaluated oscillation frequency, control voltage, power and leakage current. NIT Delhi, May–Jul 2026.</b>
+      <br/><br/>
+      <code>Cadence Virtuoso</code> <code>CMOS</code> <code>MTCMOS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗣️ <a href="https://github.com/Piyush-47928?tab=repositories">python-talking-bot</a></h3>
+      A Python talking bot with audio output, built around input–output handling and automation logic.
+      <br/><br/>
+      <b>Speaks its responses aloud through audio output.</b>
+      <br/><br/>
+      <code>Python</code> <code>Audio</code> <code>Automation</code>
     </td>
   </tr>
 </table>
