@@ -80,7 +80,7 @@ Six builds, each with a result you can check.
       <code>Cadence Virtuoso</code> <code>CMOS</code> <code>MTCMOS</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🗣️ <a href="https://github.com/Piyush-47928?tab=repositories">python-talking-bot</a></h3>
+      <h3>🗣️ <a href="https://github.com/Piyush-47928?tab=repositories">Python-Talking-bot</a></h3>
       A Python talking bot with audio output, built around input–output handling and automation logic.
       <br/><br/>
       <b>Speaks its responses aloud through audio output.</b>
